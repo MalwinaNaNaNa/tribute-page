@@ -1,0 +1,147 @@
+div#box {background-color: #fff;
+         margin: 5% 5% 5% 5%;
+          border-radius: 30px;
+        }
+
+body {margin: 10% 5% 1% 5%;
+      background-image: url("http://humanelementproject.com/wp-content/uploads/2012/10/Ashrita_Furman2-682x1024.jpg");
+
+}
+
+
+h1 {font-family: 'Amatic SC', cursive;
+  font-size: 70px}
+@media screen and (max-width: 568px) {
+        h1 {
+    font-size:30px;
+    }
+}
+h2 {font-family: 'Amatic SC', cursive;
+  font-size: 30px}
+@media screen and (max-width: 568px) {
+        h2 {
+    font-size:20px;
+    }
+}
+
+
+p#intro-quote {
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 30px;
+  color: #000;
+  margin: 5% 5% 0% 5%;
+}
+@media screen and (max-width: 568px) {
+        p#intro-quote {
+    font-size:20px;
+    }
+}
+
+p#author-quote {
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 45px;
+  color: #000;
+}
+@media screen and (max-width: 568px) {
+        p#author-quote {
+    font-size:25px;
+    }
+}
+
+
+#ashrita-face-circle {width: 25%;
+      border-radius: 50%;
+      margin: 1% 1% 1% 0px;
+}
+
+span#quotation-marks {font-size:50px;}
+@media screen and (max-width: 568px) {
+        span#quotation-marks {
+    font-size:20px;
+    }
+}
+
+hr { width:80%;}
+hr.style11 {
+	height: 6px;
+	background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+  border: 0;
+}
+
+span#bold {font-weight: bold;}
+
+h2#list-records-title {margin: 5% 0.5% 1% 3%;
+  font-weight: bold;}
+ul {margin: 1% 0.5% 0.5% 6%;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;}
+@media screen and (max-width: 568px) {
+        ul {
+    font-size:10px;
+    }
+}
+h2#gallery {margin: 5% 0.5% 1% 6%;
+  font-weight: bold;}
+
+p {color: #FFF}
+
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 5%;
+    left: 0;
+    width: 100%;
+}
+#figure-caption1 {font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    color: #000}
+@media screen and (max-width: 568px) {
+        #figure-caption1 {
+    font-size:10px;
+    }
+}
+
+#figure-caption2 {font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    color: #000}
+@media screen and (max-width: 568px) {
+        #figure-caption2 {
+    font-size:10px;
+    }
+}
+
+#figure-caption3 {font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    color: #000}
+@media screen and (max-width: 568px) {
+        #figure-caption3 {
+    font-size:10px;
+    }
+}
+
+
+h2#info-title {margin: 5% 0.5% 1% 6%;
+  font-weight: bold;}
+p#info {font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    color: #000;
+}
+@media screen and (max-width: 568px) {
+        p#info {
+    font-size:10px;
+    }
+}
+
+p#footer {info {font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+    font-color: #000;}
+@media screen and (max-width: 568px) {
+        p#footer {
+    font-size:10px;
+    }
+}
+  
